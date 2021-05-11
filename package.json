@@ -1,0 +1,24 @@
+{
+  "name": "mi.com",
+  "version": "1.0.0",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zsh-mvp/mi.com.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zsh-mvp/mi.com/issues"
+  },
+  "homepage": "https://github.com/zsh-mvp/mi.com#readme",
+  "description": ""
+}
